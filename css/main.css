@@ -1,0 +1,121 @@
+body{
+  background-color: #1f202b;
+  color:white;
+  width: 1200px;
+  font-family: 'Montserrat', sans-serif;
+}
+header{
+  height: 50px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+}
+header h3{
+  float: left;
+}
+.nav ul{
+  list-style-type: none;
+}
+.nav li{
+  display: inline-block;
+  float: right;
+  padding-right: 40px;
+  padding-top: 20px;
+}
+.intro{
+  background-image: url(../img/hero-background.png);
+  height: 724px;
+}
+.intro p{
+  padding-left: 90px;
+  padding-top: 300px;
+  font-size: 60px;
+}
+.intro p spam{
+  color:red;
+}
+.portfolio{
+  width:1200px;
+}
+.portfolio h2{
+  text-align: center;
+  color:red;
+  padding-bottom: 90px;
+}
+.portfolio p{
+  padding-top: 0px;
+}
+.rogue-one{
+  width:600px;
+  height:400px;
+  float: left;
+}
+.rogue-two{
+  width:600px;
+  height:400px;
+  float: right;
+}
+.jubilee-one{
+  width:600px;
+  height:400px;
+  float: left;
+
+}
+.jubilee-two{
+  width:600px;
+  height:400px;
+  float: right;
+}
+.holstee-one{
+  width:600px;
+  height:400px;
+  float: left;
+}
+.holstee-two{
+  width:600px;
+  height:400px;
+  float: right;
+}
+.contact{
+  width:1200px;
+  height:450px;
+}
+.about{
+  width:1200px;
+  height:547px;
+  float: left;
+  background-image: url('../img/about-me.png');
+}
+.about h2{
+  text-align: center;
+  color: red;
+}
+.about h3{
+  color: black;
+}
+.about p{
+  color: black;
+}
+.contact{
+  width:1200px;
+  height:442px;
+  float: left;
+  text-align: center;
+}
+.contact h2{
+  color:red;
+}
+.Hireme,.Followme,.Meetme{
+  width: 400px;
+  height: 350px;
+  float: left;
+}
+.Followme h3{
+  text-align: center;
+}
+.Followme li{
+  display:inline;
+  list-style: none;
+  padding-right:35px;
+
+}
